@@ -110,7 +110,7 @@ font-family: 'Raleway', sans-serif;*/
 .bg_glass{
     width: 90px;
     height: 90px;
-    background: url(/img/bg/juice_glass.jpg) center, no-repeat;
+    background: url(img/bg/juice_glass.jpg) center, no-repeat;
     background-size: cover;
     float: right;
 }
