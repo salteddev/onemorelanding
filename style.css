@@ -294,7 +294,7 @@ font-family: 'Raleway', sans-serif;*/
     background-size: cover;
 }
 #service5{
-    background: url(img/services/service5.png)center no-repeat;
+    background: url(/img/services/service5.png)center no-repeat;
     background-size: cover;
 }
 #service6{
