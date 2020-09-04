@@ -792,6 +792,7 @@ ul{
 @media(max-width:425px){
     .container{
         width: 425px;
+        overflow-w:hidden;
     }
     .logo_header{
         padding-top: 20px;
@@ -906,9 +907,6 @@ ul{
     }
     .our_team{
         height: 2520px;
-    }
-    .our_team .container{
-        overflow: hidden;
     }
     .top_team{
         display: inline;
