@@ -792,7 +792,7 @@ ul{
 @media(max-width:425px){
     .container{
         width: 425px;
-        overflow-w:hidden;
+        overflow-x:hidden;
     }
     .logo_header{
         padding-top: 20px;
