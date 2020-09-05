@@ -1034,3 +1034,87 @@ ul{
         width: 333px;
     }
 }
+@media(max-width: 375px){
+    .container{
+        width: 375px;
+        
+    }
+    .section_title{
+        font-size: 35px;
+    }
+    .section_subtitle{
+        font-size: 16px;
+    }
+    .slider_wrapper {
+        left: 2px;
+    }   
+    .navigation{
+        left: 170px;
+    }
+    .about_right{
+        margin-left: 15px;
+    }
+    .works .container{
+        width: 375px;
+    }
+    .works img{
+        width: 170px;
+    }
+    .works_wrapper{
+        margin-left: 8.5px;
+    }
+    .img_margin3{
+        margin: 8px 8px 0 0;
+    }
+    .img_margin4{
+        margin: 8px 0 0 8px;
+    }
+    .img_margin5{
+        margin: 16px 8px 0 0;
+    }
+    .img_margin6{
+        margin-top: 16px;
+    }
+    .first_service{
+        width: 342px;
+    }
+    .second_service{
+        width: 342px;
+    }
+    .unit{
+        margin-left: 43px;
+    }
+    #second_unit{
+        margin-left: 43px;
+    }
+    #third_unit{
+        margin-left: 43px;
+    }
+    #fifth_unit{
+        margin-left: 43px;
+    }
+    #sixth_unit{
+        margin-left: 43px;
+    }
+    .quotes_bg{
+        width: 343px;
+    }
+    .quote_text{
+        padding: 0 21px;
+    }
+    .letter_part{
+        width: 342px;
+    }
+    .letter_part input{
+        width: 283px;
+    }
+    .letter_part textarea{
+        width: 283px;
+    }
+    .map_part{
+        width: 342px;
+    }
+    .map_part iframe{
+        width: 283px;
+    }
+}
