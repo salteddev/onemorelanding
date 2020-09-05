@@ -778,6 +778,20 @@ ul{
     font-weight: 500;
 
 }
+.love{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: #bbb8b9;
+    margin-bottom: 40px;
+    font-weight: 700; 
+}
+.love i{
+    font-size: 15px;
+}
+#heart{
+    font-size: 18px;
+}
 
 
 
